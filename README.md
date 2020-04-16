@@ -1,2 +1,2 @@
 # rpi-segmentation-detection
-object detection and segmentation on raspberry pi 3 B+
+object detection and segmentation on raspberry pi 3 B+ using tf lite
