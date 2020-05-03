@@ -142,7 +142,7 @@ height = input_details[0]['shape'][1]
 width = input_details[0]['shape'][2]
 
 # printing dimensions of the image taken by network
-print(f'height : {height}, width: {width}')
+# print(f'height : {height}, width: {width}')
 
 floating_model = (input_details[0]['dtype'] == np.float32)
 
